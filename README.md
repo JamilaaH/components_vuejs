@@ -1,6 +1,6 @@
 # projet4
 
-> projet vuejs
+> Introduction Components in Vue.JS
 
 ## Build Setup
 
